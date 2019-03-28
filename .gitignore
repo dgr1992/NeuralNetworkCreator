@@ -1,0 +1,7 @@
+.vscode/*
+bin/*
+obj/*
+network.mat
+network.nn
+MatFileHandler/bin/*
+MatFileHandler/obj/*
